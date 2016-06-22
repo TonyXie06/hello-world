@@ -7,3 +7,4 @@ local tst 05251728
 tst1
 tst2
 b:readme-edits:tst1
+push:tst1
